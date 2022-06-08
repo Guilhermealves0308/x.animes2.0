@@ -1,0 +1,151 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: black url(lolis/chika-dance.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+a {
+    background-blend-mode: color;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+
+li {
+
+    list-style: none;
+    background: black;
+}
+
+#cabecalho {
+
+    border: solid 1px blue;
+    background: red;
+    border-width: solid blue;
+
+
+}
+
+#logo {
+
+    text-align: center;
+}
+
+#icone {
+    width: 8px;
+    height: 8px;
+    float: left;
+    position: left;
+}
+
+#menu-cabecalho {
+    border: red solid 1px;
+    width: 800px;
+    margin: 0px auto;
+}
+
+#menu-cabecalho li {
+
+    float: left;
+
+}
+
+#menu-cabecalho a {
+
+    padding: 5px 2em;
+    border: solid 1px;
+}
+
+#menu-cabecalho a:hover {
+
+    background: black;
+    color: white;
+}
+
+#area-principal {
+    margin: 5% auto;
+    width: 80%;
+    text-align: left;
+    background: black;
+    border: 1px solid red;
+}
+
+.clear {
+
+    clear: both;
+}
+
+#area-secundaria {
+    margin: 5% auto;
+    width: 80%;
+    height: 800%;
+    text-align: left;
+    background: black;
+    border: 1px solid red;
+    color: red;
+    text-align: center;
+
+}
+
+#area-terciaria {
+    margin: 5% auto;
+    width: 80%;
+    text-align: left;
+    background: black;
+    border: 1px solid red;
+
+}
+
+#area-quarta {
+    margin: 5% auto;
+    width: 80%;
+    text-align: left;
+    background: black;
+    border: 1px solid red;
+}
+
+.carrossel {
+    display: inline-block;
+    margin-top: 5%;
+    padding: 2%;
+    border-radius: 1em;
+    background: red;
+}
+
+#menu-cabecalho li {
+    float: left;
+}
+
+
+.footer {
+    background: red;
+    text-align: center;
+    color: black;
+}
+
+#inicio {
+    color: red;
+    display: inline-block;
+    text-align: center;
+
+
+}
+
+#animes1 {
+    margin: 5% auto;
+    width: 80%;
+    text-align: center;
+    background: black;
+    border: 1px solid red;
+}
+
+#animes {
+    color: red;
+    display: inline-block;
+    text-align: center;
+    padding: auto;
+
+}
